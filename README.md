@@ -2151,5 +2151,6 @@ It is an:
 > **Adaptive, multimodal, evidence-driven assessment platform with AI conversation, deterministic evaluation, realtime communication, isolated code execution, competency modeling, and explainable assessment.**
 
 This architecture should be treated as the **baseline design**. Individual technologies can change later if implementation/testing demonstrates a better option, but changes should be made deliberately rather than accumulating technologies without a clear responsibility.
-#   A d a p t i v e - M u l t i m o d a l - A I - I n t e r v i e w - A s s e s s m e n t - E n g i n e  
+#   A d a p t i v e - M u l t i m o d a l - A I - I n t e r v i e w - A s s e s s m e n t - E n g i n e 
+ 
  
